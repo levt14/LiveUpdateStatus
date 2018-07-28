@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "155621065369",
+    "firebase_url": "https://liveupdatestatus-47a1b.firebaseio.com",
+    "project_id": "liveupdatestatus-47a1b",
+    "storage_bucket": "liveupdatestatus-47a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155621065369:android:c5bbbcef40a71e61",
+        "android_client_info": {
+          "package_name": "com.liveupdatestatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155621065369-g2c2n4b99mt9v0t58ovkivhun0l8eedu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liveupdatestatus",
+            "certificate_hash": "862591d62e663fb241a710026e7b6ec5d72ec688"
+          }
+        },
+        {
+          "client_id": "155621065369-unpfe7441rh4vf9u4h9gi00fbbihc7up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-Tx33np2lToM2erainw1Dc2aA5eJZpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155621065369-unpfe7441rh4vf9u4h9gi00fbbihc7up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
